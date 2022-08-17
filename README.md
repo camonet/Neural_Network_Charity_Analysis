@@ -34,7 +34,7 @@ The IS_SUCCESSFUL variable was considered the target variable of the analysis. A
   - Attempt 3 (back to regular dataset, changed activation functions to tanh, decreased neurons, change class bin size)
   <img width="646" alt="Screen Shot 2022-08-17 at 5 20 31 PM" src="https://user-images.githubusercontent.com/99444856/185253732-e0a42433-2235-414a-8115-479a78302465.png">
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation
+## Summary:
   The overall results from this analysis are that this model is not an exceptional predictor at determining success. Another model that performs binary classification accurately with good interpretability is the RandomForestClassifier model.
 
 
